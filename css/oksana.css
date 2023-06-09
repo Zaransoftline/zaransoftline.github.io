@@ -1,0 +1,21 @@
+.nazarko {
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    color: white;
+    border-top-left-radius: 250px;
+    border-top-right-radius: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+    font-size: 40px;
+    font-family: arial;
+    color: aqua;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
